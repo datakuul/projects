@@ -1,4 +1,4 @@
-
+## Information about a website 
 == Server Environment ==
 	Operating System: Linux
 	Software: Apache
