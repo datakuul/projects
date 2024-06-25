@@ -1,0 +1,172 @@
+
+== Server Environment ==
+	Operating System: Linux
+	Software: Apache
+	MySQL version: Source distribution v5.7.39-42
+	PHP Version: 7.4.33
+	PHP Memory Limit: 768M
+	PHP Max Input Vars: 3000
+	PHP Max Post Size: 256M
+	GD Installed: Yes
+	ZIP Installed: Yes
+	Write Permissions: All right
+	Elementor Library: Connected
+
+== WordPress Environment ==
+	Version: 6.1.1
+	Site URL: https://mercytech.co.uk
+	Home URL: https://mercytech.co.uk
+	WP Multisite: No
+	Max Upload Size: 256 MB
+	Memory limit: 256M
+	Max Memory limit: 768M
+	Permalink Structure: /%postname%/
+	Language: en-US
+	Timezone: 0
+	Admin Email: info@mercytech.co.uk
+	Debug Mode: Inactive
+
+== Theme ==
+	Name: Kadence
+	Version: 1.1.31
+	Author: Kadence WP
+	Child Theme: No
+
+== User ==
+	Role: administrator
+	WP Profile lang: en_US
+	User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+
+== Active Plugins ==
+	Elementor
+		Version: 3.8.1
+		Author: Elementor.com
+
+	Elementor Pro
+		Version: 3.8.2
+		Author: Elementor.com
+
+	Rank Math SEO
+		Version: 1.0.102
+		Author: Rank Math
+
+	SiteGround Central
+		Version: 2.0.9
+		Author: SiteGround
+
+	SiteGround Optimizer
+		Version: 7.2.6
+		Author: SiteGround
+
+	SiteGround Security
+		Version: 1.3.7
+		Author: SiteGround
+
+	Starter Templates
+		Version: 3.1.18
+		Author: Brainstorm Force
+
+	Tutor LMS
+		Version: 2.1.2
+		Author: Themeum
+
+	WooCommerce
+		Version: 7.1.0
+		Author: Automattic
+
+	WooCommerce Payments
+		Version: 5.0.3
+		Author: Automattic
+
+	WooCommerce PayPal Payments
+		Version: 2.0.0
+		Author: WooCommerce
+
+	WooCommerce Shipping &amp; Tax
+		Version: 2.0.0
+		Author: WooCommerce
+
+	WordPress Importer
+		Version: 0.8
+		Author: wordpressdotorg
+
+	WP Go Maps (formerly WP Google Maps)
+		Version: 9.0.13
+		Author: WP Go Maps
+
+
+== Elementor Experiments ==
+	Optimized DOM Output: Active by default
+	Improved Asset Loading: Active by default
+	Improved CSS Loading: Active by default
+	Inline Font Icons: Inactive by default
+	Accessibility Improvements: Active by default
+	Additional Custom Breakpoints: Active by default
+	Import Export Website Kit: Active by default
+	Hide native WordPress widgets from search results: Active by default
+	admin_menu_rearrangement: Inactive by default
+	Flexbox Container: Inactive by default
+	Default to New Theme Builder: Active by default
+	Landing Pages: Active by default
+	Color Sampler: Active by default
+	Favorite Widgets: Active by default
+	Admin Top Bar: Active by default
+	Page Transitions: Active by default
+	Notes: Active by default
+	Loop: Inactive by default
+	Form Submissions: Active by default
+	Scroll Snap: Active by default
+
+
+== Log ==
+	
+JS: showing 20 of 36JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6401widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6414widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6417widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6420widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6428widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6434widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6453widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6456widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6462widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6473widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6476widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6482widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6485widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6491widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6494widgetsticky\&#039; 
+JS: 2022-11-12 16:48:17 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6500widgetsticky\&#039; 
+JS: 2022-11-12 16:48:18 [error X 6][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6503widgetsticky\&#039; 
+JS: 2022-11-12 16:48:18 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6351widgetsticky\&#039; 
+JS: 2022-11-12 16:48:18 [error X 1][https://mercytech.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.6.1:2:40879] Cannot create property \&#039;guid\&#039; on string \&#039;c6444widgetsticky\&#039; 
+JS: 2022-11-16 14:13:41 [error X 7][https://mercytech.co.uk/wp-admin/load-scripts.php?c=0&loadchunk_0=underscore,jquery-core,jquery-migrate,backbone,jquery-ui-core,jquery-ui-mouse,wp-api-request,regenerator-runtime,wp-polyfill,wp-&loadchunk_1=hooks&ver=6.1.1:4:51824] Cannot read properties of undefined (reading \&#039;replace\&#039;) 
+
+PHP: showing 1 of 1PHP: 2022-11-12 23:28:34 [notice X 3][/home/customer/www/mercytech.co.uk/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php::171] Undefined index: data [array (
+  'trace' => '
+#0: Elementor\Core\Logger\Manager -> shutdown()
+',
+)]
+
+Log: showing 5 of 52022-11-15 23:45:35 [info] Elementor data updater process has been queued. [array (
+  'plugin' => 'Elementor',
+  'from' => '3.8.0',
+  'to' => '3.8.1',
+)]
+2022-11-16 00:00:05 [info] elementor::elementor_updater Started 
+2022-11-16 00:00:05 [info] Elementor/Upgrades - _on_each_version Start  
+2022-11-16 00:00:05 [info] Elementor/Upgrades - _on_each_version Finished 
+2022-11-16 00:00:05 [info] Elementor data updater process has been completed. [array (
+  'plugin' => 'Elementor',
+  'from' => '3.8.0',
+  'to' => '3.8.1',
+)]
+
+
+
+== Elementor - Compatibility Tag ==
+	
+	Elementor Pro: Incompatible
+
+== Elementor Pro - Compatibility Tag ==
+	
+
